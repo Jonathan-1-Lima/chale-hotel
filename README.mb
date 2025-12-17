@@ -1,21 +1,23 @@
 # Chalé Hotel 🏨
 
-Projeto de site institucional desenvolvido com HTML, CSS e JavaScript,
-simulando o site de um hotel de alto padrão.
+Site institucional fictício de um hotel com múltiplas páginas, layout clássico,
+interações em JavaScript e design responsivo.
 
-## 🎯 Objetivo do projeto
-Praticar a criação de layouts clássicos, organização de conteúdo,
-responsividade e interação com JavaScript puro.
+## 🚀 Objetivo
+Praticar a construção de um site completo usando HTML, CSS e JavaScript,
+com foco em organização, componentes reutilizáveis e UX funcional.
 
-## 🛠️ Tecnologias utilizadas
-- HTML5 (estrutura semântica)
-- CSS3 (layout, responsividade e identidade visual)
-- JavaScript (interações e modal de imagens)
+## 🛠️ Tecnologias
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Responsividade via media queries
 
-## 📐 Funcionalidades
-- Layout com área principal e lateral
-- Páginas internas com padrão visual consistente
-- Modal para exibição de imagens
-- Design responsivo para mobile
+## 📄 Funcionalidades
+- Layout com cabeçalho, área principal e lateral
+- Páginas internas com padrão visual
+- Modal de imagens customizado
+- Formulários com validação
+- Responsivo mobile
 
-## 📁 Estrutura de pastas
+## 📂 Estrutura do Projeto
